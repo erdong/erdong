@@ -11,9 +11,9 @@
 🔭  云原生笔记 ： http://erdong.site/cloudnative-notes/
 
 🔭  Ansible 笔记 ： http://erdong.site/ansible-notes/
-
+<!--
 🔭  ACP 笔记 ： http://erdong.site/acp-notes/
-
+-->
 微信公众号：耳东学堂
 
 ## 联系我
