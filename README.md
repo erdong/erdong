@@ -1,4 +1,4 @@
-# Er Dong : 学习中的运维攻城狮
+# Er Dong : 不断学习的运维攻城狮
 [![Erdong's github stats](https://github-readme-stats.vercel.app/api?username=erdong&show_icons=true&theme=radical)](https://erdong.site)
 
 
@@ -13,7 +13,7 @@
 
 🔭  ACP 笔记 ： http://erdong.site/acp-notes/
 
-## 最近更新文章（Top 5）
+微信公众号：耳东学堂
 
 ## 联系我
 
