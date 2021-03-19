@@ -6,21 +6,32 @@
 ## 我的笔记
 🔭  我的博客 ： https://erdong.site
 
-🔭  Prometheus 笔记 ： http://erdong.site/prometheus-notes/
+🔭  Prometheus 笔记 ： https://erdong.site/prometheus-notes/
 
-🔭  云原生笔记 ： http://erdong.site/cloudnative-notes/
+🔭  云原生笔记 ： https://erdong.site/cloudnative-notes/
 
-🔭  Ansible 笔记 ： http://erdong.site/ansible-notes/
+🔭  Ansible 笔记 ： https://erdong.site/ansible-notes/
 <!--
-🔭  ACP 笔记 ： http://erdong.site/acp-notes/
+🔭  ACP 笔记 ： https://erdong.site/acp-notes/
 -->
 微信公众号：耳东学堂
+<!--
+## 我维护的项目
+
+ [aliyun_exporter](https://github.com/erdong/aliyun_exporter)
+
+-->
+## 我参与贡献的项目
+
+🌱  [pbspro_exporter](https://github.com/paratera/pbspro_exporter)
+
+🌱  [grafana-dashboards](https://github.com/ErdongAcademy/grafana-dashboards)
 
 ## 联系我
 
-Email: erdong@mail.erdong.site
+ 📫  Email: erdong@mail.erdong.site
 
-Github Issue: https://github.com/erdong/erdong.github.io/issues
+ 💬  Github Issue: https://github.com/erdong/erdong.github.io/issues
 
 <!--
 **erdong/erdong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
