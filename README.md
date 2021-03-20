@@ -16,6 +16,8 @@
 -->
 微信公众号：耳东学堂
 <!--
+恭喜你，发现了这个彩蛋，这是我一些还没有公开的东西，目前处于规划状态或者正在做，以后成熟了会放出来。
+
 ## 我维护的项目
 
  [aliyun_exporter](https://github.com/erdong/aliyun_exporter)
@@ -33,17 +35,3 @@
 
  💬  Github Issue: https://github.com/erdong/erdong.github.io/issues
 
-<!--
-**erdong/erdong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
